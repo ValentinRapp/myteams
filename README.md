@@ -1,7 +1,3 @@
-* Specific Command to execute the program:
-
-``export LD_LIBRARY_PATH=$(pwd)/libs/myteams/:$LD_LIBRARY_PATH``
-
 communication protocol:
 
 
