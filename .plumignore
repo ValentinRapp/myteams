@@ -1,0 +1,3 @@
+./libs/myteams/libmyteams.so
+./libs/myteams/logging_client.h
+./libs/myteams/logging_server.h

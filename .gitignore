@@ -1,0 +1,9 @@
+server/obj/*
+client/obj/*
+server/myteams_server
+client/myteams_cli
+myteams_server
+myteams_cli
+*liball.a
+.vscode
+save.dat
