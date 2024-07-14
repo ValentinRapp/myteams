@@ -1,3 +1,10 @@
+https://github.com/user-attachments/assets/daa4f134-dcc8-468e-8ff7-185b17a04c80
+
+https://github.com/user-attachments/assets/d1b1bd8d-7e14-45b7-956c-db5517992cbe
+
+https://github.com/user-attachments/assets/5b39a649-afa1-49eb-bafe-5072adc91c03
+
+
 communication protocol:
 
 
