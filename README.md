@@ -7,6 +7,7 @@ This tool supports individual users logging in and out, private messages between
 ## Building
 
 ### Requirements
+- [Unix-based system](https://wikipedia.org/wiki/Linux)
 - [gcc](https://gcc.gnu.org/)
 
 Just type ``make`` in a shell at the root of the repo
