@@ -1,16 +1,8 @@
 # myteams
 
-This is a Microsoft teams like communication tool written entirely in C, this is a CLI tool that's separated between a client and a server binary.
+This is a Microsoft teams-like communication tool written entirely in C, this is a CLI tool that's separated between a client and a server binary.
 
 This tool supports individual users logging in and out, private messages between users, there is a saving system so that everything gets saved by itself when the server gets shut down and loaded back when it turns back on, and there is also a safety mechanism that prevents corrupted save files from being loaded.
-
-## Building
-
-### Requirements
-- [Unix-based system](https://wikipedia.org/wiki/Linux)
-- [gcc](https://gcc.gnu.org/)
-
-Just type ``make`` in a shell at the root of the repo
 
 ## Usage
 
@@ -50,4 +42,10 @@ https://github.com/user-attachments/assets/d1b1bd8d-7e14-45b7-956c-db5517992cbe
 
 https://github.com/user-attachments/assets/5b39a649-afa1-49eb-bafe-5072adc91c03
 
+## Building
 
+### Requirements
+- [Unix-based system](https://wikipedia.org/wiki/Unix)
+- [gcc](https://gcc.gnu.org/)
+
+Just type ``make`` in a shell at the root of the repo
